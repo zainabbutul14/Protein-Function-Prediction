@@ -17,6 +17,8 @@ Six proteins were selected to represent varying levels of annotation:
 
 By integrating multiple computational tools, this study demonstrates how bioinformatics can uncover hidden biological roles, validate known biomarkers, and predict potential novel tumor suppressors or oncogenic regulators.
 
+**Selection Criteria:** Proteins <500 amino acids, relevance to ovarian cancer, potential novelty.
+
 ---
 ## Objectives
 
