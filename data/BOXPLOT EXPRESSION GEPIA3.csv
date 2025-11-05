@@ -1,0 +1,15 @@
+﻿NAME,DATASET,n_tumor,n_normal,median_tumor,median_normal,t,p-value
+KLK10,OV,427,88,6.85,4.39,11.461,3.13E-27
+ERLIN1,OV,"	427",88,"	3.68",3.87,-3.092,0.0021
+LETMD1,OV,"	427",88,5.24,6.29,-12.685,2.90E-32
+DNAAF6,OV,427,88,0.04,0,4.111,4.50E-05
+ZSWIM7,OV,427,88,3.86,5.18,-17.755,2.47E-55
+KCTD13,OV,427,88,3.74,4.59,-12.008,1.90E-29
+,,,,,,,
+,,,,,,,
+Gene,Tumor Median,Normal Median,Trend,p-value,Interpretation,,
+KLK10,6.85,4.39,⬆️ Upregulated,3.1×10⁻²⁷,Strongly overexpressed in tumors — KLK10 is known as a cancer-associated kallikrein involved in tumor invasion and metastasis.,,
+ERLIN1,3.68,3.87,⬇️ Slightly downregulated,2.1×10⁻³,Mild but significant decrease in tumor tissue; may affect ER stress or lipid metabolism.,,
+LETMD1,5.24,6.29,⬇️ Downregulated,2.9×10⁻³²,Highly significant decrease; linked to mitochondrial and metabolic regulation.,,
+DNAAF6,0.04,0,⬆️ Upregulated,4.5×10⁻⁵,"Low overall expression, but significantly higher in tumors — may indicate ciliogenesis disruption.",,
+ZSWIM7,3.86,5.18,⬇️ Downregulated,2.47×10⁻⁵⁵,Strongly reduced in tumors; could relate to DNA repair or cell cycle functions.,,
